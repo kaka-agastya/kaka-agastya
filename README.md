@@ -1,7 +1,7 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/15828ad5-b29f-4344-873e-7a9ca6bb1994)
 
 # Hello World!, I'm Kaka Agastya, Indonesian Web Developer 👋🏼:
-🛜 Currently Working On My Own [webpage](https://www.kakagastya.id)<br>👨🏼‍🎓 Studying information system at Institut Teknologi Sepuluh Nopember<br> <br>
+🛜 Currently Working On My Own [Webpage](https://www.kakagastya.id)<br>👨🏼‍🎓 Studying information system at Institut Teknologi Sepuluh Nopember<br> <br>
 
 
 # 💻 Tech Stack:
